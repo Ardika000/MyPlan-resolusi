@@ -1,0 +1,6 @@
+Coding yang ingin saya pelajari adalah :
+-Javascript
+-PHP
+-C#
+-C++
+-Python
